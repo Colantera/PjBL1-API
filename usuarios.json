@@ -1,0 +1,19 @@
+[ {
+  "id" : "da8f1be5-cb94-4f2a-b601-83495dbf6ed4",
+  "nome" : "Guilerme Pedro",
+  "email" : "pedrogui@gmail.com",
+  "role" : "PACIENTE",
+  "senhaHash" : "$2a$12$CwkSnHBQHbCMXm.RJIlWU.D3iObZlUW0gLXlHLRs/VwfEon64Mknm"
+}, {
+  "id" : "5f7c4aab-bdb6-47b5-9743-c66e4413056b",
+  "nome" : "Pedro Henrqiue",
+  "email" : "pedro@gmail.com",
+  "role" : "PACIENTE",
+  "senhaHash" : "$2a$12$voVi3AQclNN8/jYuCc6Hf.6Xo//V3EZYn/7qoUmsA6Pfc4KrP4mdi"
+}, {
+  "id" : "1f8c1565-5ba5-41e1-ad6a-863ccca40b9d",
+  "nome" : "Teste 2",
+  "email" : "teste2@gmail.com",
+  "role" : "PACIENTE",
+  "senhaHash" : "$2a$12$rKvUaqNgBpYKM03riKxDtOdaqivE1syJ8TSxEW1aoRar5LVULrNCS"
+} ]
